@@ -235,8 +235,7 @@ public class PageModel<T> {
 	</package>
 </struts>
 ```
-资源下载地址：https://download.csdn.net/download/code_200/14122933
-程序有问题联系[程序帮](http://ll032.cn/HZ6vHa)
+
 
 项目后续
 ----
